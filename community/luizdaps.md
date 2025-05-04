@@ -12,7 +12,7 @@ Estudante de ADS aprendendo backend com Python. Buscando minha primeira oportuni
 
 ## 🛠️ Habilidades
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=61DAFB)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=F7DF1E)
 </div>
 
